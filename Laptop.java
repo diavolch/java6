@@ -23,7 +23,4 @@ public class Laptop {
         this.hardDrive = hardDrive;
         this.diagonal = diagonal;
     }
-    public void getAllLaptops() {
-        System.out.println(model);
-    }
 }
